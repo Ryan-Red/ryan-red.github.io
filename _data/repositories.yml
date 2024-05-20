@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Ryan-Red
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Soldann/MORB_SLAM
+  - Ryan-Red/Robot-Simulator
+  - vuthalab/spectrum-awg
+  - vuthalab/biot-savart
+  - Ryan-Red/2D-Collision-Simulator
+  - Ryan-Red/EKF

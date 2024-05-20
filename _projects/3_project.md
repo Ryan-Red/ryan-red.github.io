@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
+title: 2D Robot Simulator from Scratch
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/Robot_Simulator/ExamplePathPlanning.png
+redirect: https://github.com/Ryan-Red/Robot-Simulator
 importance: 3
-category: work
+category: robotics
 ---
 
 Every project has a beautiful feature showcase page.
