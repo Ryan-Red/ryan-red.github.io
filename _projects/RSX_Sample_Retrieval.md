@@ -23,34 +23,36 @@ The Team comprised of myself and 6 other junior members and involved collaborati
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Full_Rover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Full_Rover.png" title="Full Rover in the Badlands" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Picture of the Full Rover with the science module in place, tested in the Alberta Badlands in 2023.
+    Picture of the Full Rover with the Science Module in place, tested in the Alberta Badlands in 2023.
 </div>
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Grass.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Grass.png" title="Sample Retrieval Module being tested on the grass" class="img-fluid rounded z-depth-1" %}
+        
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Full_Rover2.jpg" title="Another Angle of the rover in Alberta" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Rover1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Rover1.png" title="Closeup of the  Sample Retrieval Module's drill in Alberta" class="img-fluid rounded z-depth-1" %}
    
-        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Full_Rover2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Rover_Assembly_In_Progress.jpg" title="Rover Assembly in Progress" class="img-fluid rounded z-depth-1" %}
     </div>
    
 </div>
 
 <div class="caption">
-    Pictures of the drill module being tested on grass and closeups of the module in Alberta.
+    Pictures of the Sample Retrieval Module being tested on grass and closeups of the drill in Alberta.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Table.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RSX_Rover/Drill_On_Table.png" title="Partially Assembled Sample Retrieval Module" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Sideways profile of the drill after being partially assembled.
+    Sideways profile of the Sample Retrieval Module after being partially assembled.
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>University of Toronto | Istituto Italiano di Tecnologia</a>
 
@@ -13,6 +13,7 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+projects_horizontal: true
 ---
 
 I'm a Robotics Engineer in training, passionate about robot hardware and software design. I've worked on a wide range of robots and embedded systems projects, ranging from Atomic Clocks sent to the Stratosphere, autonomous factory robots, Continuum Robots, Rover Platforms and now Quadruped robots.
