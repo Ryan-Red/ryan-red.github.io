@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here's a curated list of some of my projects. Click on a project to learn more about it!
 nav: true
 nav_order: 3
-display_categories: [robotics, computer vision, fun]
+display_categories: [robotics, physics, computer vision, fun]
 horizontal: false
 ---
 

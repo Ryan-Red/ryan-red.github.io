@@ -18,15 +18,14 @@ category: robotics
 
 MAGGIE is a robot designed to probe the volume of a vacuum chamber to quantify the magnetic fields inside. This project was done over the course of my 8 month independent study course with Dr. Amar Vutha at VuthaLabs at the University of Toronto. 
 
-By measuring the magnetic fields present in the vacuum chamber, we will then be able to set up our cancelling magnetic field coils to cancel all external disturbances. The cancelling coils we're designed for a previous project. 
-
+By measuring the magnetic fields present in the vacuum chamber, we will then be able to set up our cancelling magnetic field coils to cancel all external disturbances. The cancelling coils were designed using [the Biot-Savart](/projects/biot-savart) simulator. 
 
 
 I was in charge of all apsects of the project; mechanical, electrical and software. MAGGIE is designed as a gantry robot, made entirely out of aluminum parts to not impact the magnetic field readings and be durable. It uses a system of lead-screws and guide-rail/ball-bearing carriages to ensure high repeatabilities at sub 0.5 mm over the entire workspace.
 
 It was also entirely machined in house, some by me and others by the U of T physics machine shop. All parts are modular and interchangeable, enabling MAGGIE's workspace to modified at will. 
 
-Simulations were performed to test MAGGIE's modes of oscillation to quantify any sources of error. The magnetometer was callibrated by computing it's [Allen Variance](https://en.wikipedia.org/wiki/Allan_variance). MAGGIE is powered using NEMA 23 stepper motors with built-in feedback loops using it's encoders.
+Simulations were performed to test MAGGIE's modes of oscillation to quantify any sources of error. The magnetometer was callibrated by computing it's [Allan Variance](https://en.wikipedia.org/wiki/Allan_variance). MAGGIE is powered using NEMA 23 stepper motors with built-in feedback loops using it's encoders.
 
 
 <div class="row">
