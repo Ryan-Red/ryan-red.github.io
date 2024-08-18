@@ -8,9 +8,10 @@
   
   "work": [
     {
-      "name": "Istituto Italiano di Tecnologia - Dynamic Legged Systems Lab, Genova, Italy",
+      "name": "Istituto Italiano di Tecnologia - Dynamic Legged Systems Lab",
       "position": "Robotics Research Fellow",
-      "startDate": "01/2024",
+      "location": "Genova, Italy",
+      "startDate": "01/24",
       "endDate": "-",
       "highlights": ["Developing new robotics middleware framework based on FastDDS",
                      "Researching novel state estimator using Factor Graphs for legged robots",
@@ -19,20 +20,22 @@
                      "Implemented analogues tools such as rostopic list on DDS"]
     },
     {
-        "name": "University of Toronto - Continuum Robotics Lab, Toronto, Canada",
+        "name": "University of Toronto - Continuum Robotics Lab",
         "position": "Bachelor Thesis Student",
-        "startDate": "09/2022",
-        "endDate": "04/2023",
+        "location":"Toronto, Canada",
+        "startDate": "09/22",
+        "endDate": "04/23",
         "highlights": ["Designed a Novel Conjunctive Collaboration system for Continuum Robots",
                         "Performed iterative design cycles using CAD simulations and 3D printed prototypes",
                         "Designed a repeatable test platform to evaluate the proposed design",
                         "Achieved failure loads 3X that of State of The Art solutions when subject to the same size constraints"]
     },
     {
-        "name": "Martinrea Alfield, Vaughan, Canada",
+        "name": "Martinrea Alfield",
         "position": "Robotics Engineering Intern",
-        "startDate": "05/2022",
-        "endDate": "08/2022",
+        "location":"Vaughan, Canada",
+        "startDate": "05/22",
+        "endDate": "08/22",
         "highlights": ["Developed and maintained an ORBSLAM3 fork, MORBSLAM increasing the stability and implementing features such as saving and loading maps",
                         "Developed path planning algorithms for a differential drive robot for driving while towing loads",
                         "Optimized local path planning algorithms and the Euclidean Transform using Cuda",
@@ -40,10 +43,11 @@
                         "Presented the novel Computer Vision system to the company's investors and managers of 58 international plants"]
     },
     {
-        "name": "European Space Agency - ESTEC, Noordwijk, The Netherlands",
+        "name": "European Space Agency - ESTEC",
         "position": "Robotics Engineering Intern",
-        "startDate": "06/2021",
-        "endDate": "02/2022",
+        "location": "Noordwijk, The Netherlands",
+        "startDate": "06/21",
+        "endDate": "02/22",
         "highlights": ["Upgraded our robot's drive system with CAN controlled motor drivers for improved control",
                         "Programmed CAN interface in C++ to control the new motor drivers",
                         "Tested and improved in-house autonomous navigation stack in C++ to improve turning and braking",
@@ -54,20 +58,22 @@
                         "Defined and presented design objectives at the ESA Concurrent Design Facility for an upcoming Mars mission"]
     },
     {
-        "name": "University of Toronto - VuthaLabs, Toronto, Canada",
+        "name": "University of Toronto - VuthaLabs",
         "position": "Undergraduate Researcher",
-        "startDate": "05/2020",
-        "endDate": "05/2021",
+        "location": "Toronto, Canada",
+        "startDate": "05/20",
+        "endDate": "05/21",
         "highlights": ["Awarded Center For Quantum Information And Quantum Control Undergraduate Summer Studentship to conduct research on high precision measurement of magnetic fields using a robotics system",
                         "Designed, assembled and machined a 3-axis Prismatic Robotic Manipulator using SolidWorks",
                         "Implemented a PID controller to minimize overshoot and oscillations, attaining accuracy on the order of 0.5 mm",
                         "Implemented a magnetic field simulation tool using NumPy and Matplotlib to design magnetic field coils"]
     },
     {
-        "name": "University of Toronto - VuthaLabs, Toronto, Canada",
+        "name": "University of Toronto - VuthaLabs",
         "position": "Undergraduate Researcher",
-        "startDate": "05/2019",
-        "endDate": "09/2019",
+        "location": "Toronto, Canada",
+        "startDate": "05/19",
+        "endDate": "09/19",
         "highlights": ["Awarded the Summer Student Program Scholarship to conduct research on designing a remotely operated Atomic Clock",
                         "Designed and built an Atomic Clock that was launched to the stratosphere with researchers (https://sorce.home.blog)",
                         "Designed and tested mechanical structure for the Atomic Clock that is able to withstand accelerations upwards of 100Gs",
@@ -80,14 +86,14 @@
   ],
  
 
-  "Clubs": [
+  "clubs": [
     {
       "organization": "Robotics For Space Exploration (RSX)",
       "location": "Toronto, Canada",
       "position": "Science Subteam Lead",
       "url": "https://rsx.skule.ca/",
-      "startDate": "09/2019",
-      "endDate": "11/2023",
+      "startDate": "09/19",
+      "endDate": "11/23",
       "highlights": ["Received perfect scores for the Science SAR Evaluations for the University Rover Challenge in 2022 and 2023", 
                         "Competed at the Canadian International Rover Competitions in 2022 and 2023",
                         "Designed a set of science experiments to detect for signs of life in soil on a moving rover",
@@ -104,8 +110,8 @@
       "institution": "University of Toronto",
       "location": "Toronto, Canada",
       "area": " BASc in Engineering Science, Major in Robotics.",
-      "startDate": "09/2018",
-      "endDate": "06/2023",
+      "startDate": "09/18",
+      "endDate": "06/23",
       "GPA": "3.78/4.0",
       "courses": ["Linear Control Theory", 
                     "Robot Perception",
@@ -186,7 +192,7 @@
         "summary": "Awarded to Outstanding incoming undergraduate students at the University of Toronto"
     }
   ],
-  "Volunteering":[
+  "volunteer":[
 
     {
       "organization": "University of Toronto",
