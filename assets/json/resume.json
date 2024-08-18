@@ -1,10 +1,8 @@
 {
   "basics": {
     "name": "Ryan Zazo",
-    "label": "Roboticist",
     "image": "",
-    "email": "ryan.zazo@hotmail.com",
-    "languages": "English, French, Arabic"
+    "email": "ryan.zazo@hotmail.com"
   },
 
   
@@ -12,7 +10,7 @@
     {
       "name": "Istituto Italiano di Tecnologia - Dynamic Legged Systems Lab, Genova, Italy",
       "position": "Robotics Research Fellow",
-      "startDate": "January 2024",
+      "startDate": "01/2024",
       "endDate": "-",
       "highlights": ["Developing new robotics middleware framework based on FastDDS",
                      "Researching novel state estimator using Factor Graphs for legged robots",
@@ -23,8 +21,8 @@
     {
         "name": "University of Toronto - Continuum Robotics Lab, Toronto, Canada",
         "position": "Bachelor Thesis Student",
-        "startDate": "September 2022",
-        "endDate": "April 2023",
+        "startDate": "09/2022",
+        "endDate": "04/2023",
         "highlights": ["Designed a Novel Conjunctive Collaboration system for Continuum Robots",
                         "Performed iterative design cycles using CAD simulations and 3D printed prototypes",
                         "Designed a repeatable test platform to evaluate the proposed design",
@@ -33,8 +31,8 @@
     {
         "name": "Martinrea Alfield, Vaughan, Canada",
         "position": "Robotics Engineering Intern",
-        "startDate": "May 2022",
-        "endDate": "August 2022",
+        "startDate": "05/2022",
+        "endDate": "08/2022",
         "highlights": ["Developed and maintained an ORBSLAM3 fork, MORBSLAM increasing the stability and implementing features such as saving and loading maps",
                         "Developed path planning algorithms for a differential drive robot for driving while towing loads",
                         "Optimized local path planning algorithms and the Euclidean Transform using Cuda",
@@ -44,8 +42,8 @@
     {
         "name": "European Space Agency - ESTEC, Noordwijk, The Netherlands",
         "position": "Robotics Engineering Intern",
-        "startDate": "June 2021",
-        "endDate": "February 2022",
+        "startDate": "06/2021",
+        "endDate": "02/2022",
         "highlights": ["Upgraded our robot's drive system with CAN controlled motor drivers for improved control",
                         "Programmed CAN interface in C++ to control the new motor drivers",
                         "Tested and improved in-house autonomous navigation stack in C++ to improve turning and braking",
@@ -58,8 +56,8 @@
     {
         "name": "University of Toronto - VuthaLabs, Toronto, Canada",
         "position": "Undergraduate Researcher",
-        "startDate": "May 2020",
-        "endDate": "May 2021",
+        "startDate": "05/2020",
+        "endDate": "05/2021",
         "highlights": ["Awarded Center For Quantum Information And Quantum Control Undergraduate Summer Studentship to conduct research on high precision measurement of magnetic fields using a robotics system",
                         "Designed, assembled and machined a 3-axis Prismatic Robotic Manipulator using SolidWorks",
                         "Implemented a PID controller to minimize overshoot and oscillations, attaining accuracy on the order of 0.5 mm",
@@ -68,8 +66,8 @@
     {
         "name": "University of Toronto - VuthaLabs, Toronto, Canada",
         "position": "Undergraduate Researcher",
-        "startDate": "May 2019",
-        "endDate": "September 2019",
+        "startDate": "05/2019",
+        "endDate": "09/2019",
         "highlights": ["Awarded the Summer Student Program Scholarship to conduct research on designing a remotely operated Atomic Clock",
                         "Designed and built an Atomic Clock that was launched to the stratosphere with researchers (https://sorce.home.blog)",
                         "Designed and tested mechanical structure for the Atomic Clock that is able to withstand accelerations upwards of 100Gs",
@@ -88,8 +86,8 @@
       "location": "Toronto, Canada",
       "position": "Science Subteam Lead",
       "url": "https://rsx.skule.ca/",
-      "startDate": "September 2019",
-      "endDate": "November 2023",
+      "startDate": "09/2019",
+      "endDate": "11/2023",
       "highlights": ["Received perfect scores for the Science SAR Evaluations for the University Rover Challenge in 2022 and 2023", 
                         "Competed at the Canadian International Rover Competitions in 2022 and 2023",
                         "Designed a set of science experiments to detect for signs of life in soil on a moving rover",
@@ -106,8 +104,8 @@
       "institution": "University of Toronto",
       "location": "Toronto, Canada",
       "area": " BASc in Engineering Science, Major in Robotics.",
-      "startDate": "September 2018",
-      "endDate": "June 2023",
+      "startDate": "09/2018",
+      "endDate": "06/2023",
       "GPA": "3.78/4.0",
       "courses": ["Linear Control Theory", 
                     "Robot Perception",
@@ -186,50 +184,6 @@
         "date": "September 2018",
         "awarder": "University of Toronto",
         "summary": "Awarded to Outstanding incoming undergraduate students at the University of Toronto"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "Volunteering":[
