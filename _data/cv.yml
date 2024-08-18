@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Robotics Research Fellow
-      institution: Istituto Italiano di Tecnologia - Dynamic Legged Systems Lab, Toronto, Canada
+      institution: Istituto Italiano di Tecnologia - Dynamic Legged Systems Lab, Genova, Italy
       year: 2024
       description:
         - Developing new robotics middleware framework based on FastDDS
