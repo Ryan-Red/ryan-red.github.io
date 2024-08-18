@@ -25,6 +25,6 @@ In my free time, I tend to work on smaller side projects that envolve both desig
 - Developing simplified [Robotics](https://github.com/Ryan-Red/Robot-Simulator) and [Physics](https://github.com/vuthalab/biot-savart) Simulators.
 - Recreating Computer Vision tools like a [Panorama Stitcher](/projects/Panorama_Stitcher) (while minimizing use of libraries)
 
-Outside of robotics, I tinker around the house, flying my drones and am passionate about design and understanding the inner workings of the things I use regularly.
+Outside of robotics, I tinker around the house, fly my drones and am passionate about design and understanding the inner workings of the things I use regularly.
 
 See the [Projects](/projects/) page for information about some of my past and current projects! 
