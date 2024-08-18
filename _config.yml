@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: ryan, zazo, ryan zazo, robotics, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: assets/img/Robot_Simulator/ExamplePathPlanning.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: *# the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ryan-red.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
